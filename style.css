@@ -101,7 +101,7 @@ h3 {
 }
 
 .button:hover,
-button:focus {
+.button:focus {
   background: var(--color-primary-dark);
 }
 
